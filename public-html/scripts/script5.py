@@ -4,7 +4,7 @@
 7.	Crear un programa que permita Copiar el contenido de un archivo a otro. 2 versiones: una para archivos de texto y otra para archivos binarios
 """
 # import shutil
-print("====================== EJERCICIO 4 (6.) ======================")
+print("====================== EJERCICIO 5 (7.) ======================")
 
 # Función para copiar archivo de texto
 def copiar_archivo(ruta):
